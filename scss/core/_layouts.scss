@@ -12,6 +12,7 @@ body {
   overflow-x: hidden;
   overflow-y: scroll;
   background-color: var(--bg-cl);
+
   &.--disable-scroll {
     height: 100vh;
     overflow: hidden;
